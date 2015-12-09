@@ -1,6 +1,6 @@
 # favo fix
 
-Fixt nur Design, leider keine JS Funktionen, und funktioniert nur mit dem Runde 7 Skin:
+Fixt Design von lokaler (Browser) Seite, leider keine JS Funktionen, und funktioniert nur mit dem Runde 7 Skin:
 
 Einloggen auf: http://simple.fatal-vortex.de/pubstatic.fv?f=pubframeset.tpl&tplvars[pipe]=login
 
